@@ -1,6 +1,6 @@
 {
-  "name": "bundlesize",
-  "version": "0.17.1",
+  "name": "@condenast/bundlesize",
+  "version": "0.18.0",
   "description": "Keep your library size in check",
   "repository": {
     "type": "git",
@@ -39,7 +39,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.17.0",
-    "brotli-size": "0.0.1",
+    "brotli-size": "0.0.3",
     "bytes": "^3.0.0",
     "ci-env": "^1.4.0",
     "commander": "^2.11.0",
